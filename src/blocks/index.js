@@ -1,161 +1,161 @@
 import React from 'react';
 
-import LightBlogA from './blog/light/a';
-import LightBlogB from './blog/light/b';
-import LightBlogC from './blog/light/c';
-import LightBlogD from './blog/light/d';
-import LightBlogE from './blog/light/e';
+import LightBlogA from './blog/light/a.js';
+import LightBlogB from './blog/light/b.js';
+import LightBlogC from './blog/light/c.js';
+import LightBlogD from './blog/light/d.js';
+import LightBlogE from './blog/light/e.js';
 
-import DarkBlogA from './blog/dark/a';
-import DarkBlogB from './blog/dark/b';
-import DarkBlogC from './blog/dark/c';
-import DarkBlogD from './blog/dark/d';
-import DarkBlogE from './blog/dark/e';
+import DarkBlogA from './blog/dark/a.js';
+import DarkBlogB from './blog/dark/b.js';
+import DarkBlogC from './blog/dark/c.js';
+import DarkBlogD from './blog/dark/d.js';
+import DarkBlogE from './blog/dark/e.js';
 
-import LightContactA from './contact/light/a';
-import LightContactB from './contact/light/b';
-import LightContactC from './contact/light/c';
+import LightContactA from './contact/light/a.js';
+import LightContactB from './contact/light/b.js';
+import LightContactC from './contact/light/c.js';
 
-import DarkContactA from './contact/dark/a';
-import DarkContactB from './contact/dark/b';
-import DarkContactC from './contact/dark/c';
+import DarkContactA from './contact/dark/a.js';
+import DarkContactB from './contact/dark/b.js';
+import DarkContactC from './contact/dark/c.js';
 
-import LightContentA from './content/light/a';
-import LightContentB from './content/light/b';
-import LightContentC from './content/light/c';
-import LightContentD from './content/light/d';
-import LightContentE from './content/light/e';
-import LightContentF from './content/light/f';
-import LightContentG from './content/light/g';
-import LightContentH from './content/light/h';
+import LightContentA from './content/light/a.js';
+import LightContentB from './content/light/b.js';
+import LightContentC from './content/light/c.js';
+import LightContentD from './content/light/d.js';
+import LightContentE from './content/light/e.js';
+import LightContentF from './content/light/f.js';
+import LightContentG from './content/light/g.js';
+import LightContentH from './content/light/h.js';
 
-import DarkContentA from './content/dark/a';
-import DarkContentB from './content/dark/b';
-import DarkContentC from './content/dark/c';
-import DarkContentD from './content/dark/d';
-import DarkContentE from './content/dark/e';
-import DarkContentF from './content/dark/f';
-import DarkContentG from './content/dark/g';
-import DarkContentH from './content/dark/h';
+import DarkContentA from './content/dark/a.js';
+import DarkContentB from './content/dark/b.js';
+import DarkContentC from './content/dark/c.js';
+import DarkContentD from './content/dark/d.js';
+import DarkContentE from './content/dark/e.js';
+import DarkContentF from './content/dark/f.js';
+import DarkContentG from './content/dark/g.js';
+import DarkContentH from './content/dark/h.js';
 
-import LightCTAA from './cta/light/a';
-import LightCTAB from './cta/light/b';
-import LightCTAC from './cta/light/c';
-import LightCTAD from './cta/light/d';
+import LightCTAA from './cta/light/a.js';
+import LightCTAB from './cta/light/b.js';
+import LightCTAC from './cta/light/c.js';
+import LightCTAD from './cta/light/d.js';
 
-import DarkCTAA from './cta/dark/a';
-import DarkCTAB from './cta/dark/b';
-import DarkCTAC from './cta/dark/c';
-import DarkCTAD from './cta/dark/d';
+import DarkCTAA from './cta/dark/a.js';
+import DarkCTAB from './cta/dark/b.js';
+import DarkCTAC from './cta/dark/c.js';
+import DarkCTAD from './cta/dark/d.js';
 
-import LightEcommerceA from './ecommerce/light/a';
-import LightEcommerceB from './ecommerce/light/b';
-import LightEcommerceC from './ecommerce/light/c';
+import LightEcommerceA from './ecommerce/light/a.js';
+import LightEcommerceB from './ecommerce/light/b.js';
+import LightEcommerceC from './ecommerce/light/c.js';
 
-import DarkEcommerceA from './ecommerce/dark/a';
-import DarkEcommerceB from './ecommerce/dark/b';
-import DarkEcommerceC from './ecommerce/dark/c';
+import DarkEcommerceA from './ecommerce/dark/a.js';
+import DarkEcommerceB from './ecommerce/dark/b.js';
+import DarkEcommerceC from './ecommerce/dark/c.js';
 
 
-import LightFeatureA from './feature/light/a';
-import LightFeatureB from './feature/light/b';
-import LightFeatureC from './feature/light/c';
-import LightFeatureD from './feature/light/d';
-import LightFeatureE from './feature/light/e';
-import LightFeatureF from './feature/light/f';
-import LightFeatureG from './feature/light/g';
-import LightFeatureH from './feature/light/h';
+import LightFeatureA from './feature/light/a.js';
+import LightFeatureB from './feature/light/b.js';
+import LightFeatureC from './feature/light/c.js';
+import LightFeatureD from './feature/light/d.js';
+import LightFeatureE from './feature/light/e.js';
+import LightFeatureF from './feature/light/f.js';
+import LightFeatureG from './feature/light/g.js';
+import LightFeatureH from './feature/light/h.js';
 
-import DarkFeatureA from './feature/dark/a';
-import DarkFeatureB from './feature/dark/b';
-import DarkFeatureC from './feature/dark/c';
-import DarkFeatureD from './feature/dark/d';
-import DarkFeatureE from './feature/dark/e';
-import DarkFeatureF from './feature/dark/f';
-import DarkFeatureG from './feature/dark/g';
-import DarkFeatureH from './feature/dark/h';
+import DarkFeatureA from './feature/dark/a.js';
+import DarkFeatureB from './feature/dark/b.js';
+import DarkFeatureC from './feature/dark/c.js';
+import DarkFeatureD from './feature/dark/d.js';
+import DarkFeatureE from './feature/dark/e.js';
+import DarkFeatureF from './feature/dark/f.js';
+import DarkFeatureG from './feature/dark/g.js';
+import DarkFeatureH from './feature/dark/h.js';
 
-import LightFooterA from './footer/light/a';
-import LightFooterB from './footer/light/b';
-import LightFooterC from './footer/light/c';
-import LightFooterD from './footer/light/d';
-import LightFooterE from './footer/light/e';
+import LightFooterA from './footer/light/a.js';
+import LightFooterB from './footer/light/b.js';
+import LightFooterC from './footer/light/c.js';
+import LightFooterD from './footer/light/d.js';
+import LightFooterE from './footer/light/e.js';
 
-import DarkFooterA from './footer/dark/a';
-import DarkFooterB from './footer/dark/b';
-import DarkFooterC from './footer/dark/c';
-import DarkFooterD from './footer/dark/d';
-import DarkFooterE from './footer/dark/e';
+import DarkFooterA from './footer/dark/a.js';
+import DarkFooterB from './footer/dark/b.js';
+import DarkFooterC from './footer/dark/c.js';
+import DarkFooterD from './footer/dark/d.js';
+import DarkFooterE from './footer/dark/e.js';
 
-import LightGalleryA from './gallery/light/a';
-import LightGalleryB from './gallery/light/b';
-import LightGalleryC from './gallery/light/c';
+import LightGalleryA from './gallery/light/a.js';
+import LightGalleryB from './gallery/light/b.js';
+import LightGalleryC from './gallery/light/c.js';
 
-import DarkGalleryA from './gallery/dark/a';
-import DarkGalleryB from './gallery/dark/b';
-import DarkGalleryC from './gallery/dark/c';
+import DarkGalleryA from './gallery/dark/a.js';
+import DarkGalleryB from './gallery/dark/b.js';
+import DarkGalleryC from './gallery/dark/c.js';
 
-import LightHeaderA from './header/light/a';
-import LightHeaderB from './header/light/b';
-import LightHeaderC from './header/light/c';
-import LightHeaderD from './header/light/d';
+import LightHeaderA from './header/light/a.js';
+import LightHeaderB from './header/light/b.js';
+import LightHeaderC from './header/light/c.js';
+import LightHeaderD from './header/light/d.js';
 
-import DarkHeaderA from './header/dark/a';
-import DarkHeaderB from './header/dark/b';
-import DarkHeaderC from './header/dark/c';
-import DarkHeaderD from './header/dark/d';
+import DarkHeaderA from './header/dark/a.js';
+import DarkHeaderB from './header/dark/b.js';
+import DarkHeaderC from './header/dark/c.js';
+import DarkHeaderD from './header/dark/d.js';
 
-import LightHeroA from './hero/light/a';
-import LightHeroB from './hero/light/b';
-import LightHeroC from './hero/light/c';
-import LightHeroD from './hero/light/d';
-import LightHeroE from './hero/light/e';
-import LightHeroF from './hero/light/f';
+import LightHeroA from './hero/light/a.js';
+import LightHeroB from './hero/light/b.js';
+import LightHeroC from './hero/light/c.js';
+import LightHeroD from './hero/light/d.js';
+import LightHeroE from './hero/light/e.js';
+import LightHeroF from './hero/light/f.js';
 
-import DarkHeroA from './hero/dark/a';
-import DarkHeroB from './hero/dark/b';
-import DarkHeroC from './hero/dark/c';
-import DarkHeroD from './hero/dark/d';
-import DarkHeroE from './hero/dark/e';
-import DarkHeroF from './hero/dark/f';
+import DarkHeroA from './hero/dark/a.js';
+import DarkHeroB from './hero/dark/b.js';
+import DarkHeroC from './hero/dark/c.js';
+import DarkHeroD from './hero/dark/d.js';
+import DarkHeroE from './hero/dark/e.js';
+import DarkHeroF from './hero/dark/f.js';
 
-import LightPricingA from './pricing/light/a';
-import LightPricingB from './pricing/light/b';
+import LightPricingA from './pricing/light/a.js';
+import LightPricingB from './pricing/light/b.js';
 
-import DarkPricingA from './pricing/dark/a';
-import DarkPricingB from './pricing/dark/b';
+import DarkPricingA from './pricing/dark/a.js';
+import DarkPricingB from './pricing/dark/b.js';
 
-import LightStatisticA from './statistic/light/a';
-import LightStatisticB from './statistic/light/b';
-import LightStatisticC from './statistic/light/c';
+import LightStatisticA from './statistic/light/a.js';
+import LightStatisticB from './statistic/light/b.js';
+import LightStatisticC from './statistic/light/c.js';
 
-import DarkStatisticA from './statistic/dark/a';
-import DarkStatisticB from './statistic/dark/b';
-import DarkStatisticC from './statistic/dark/c';
+import DarkStatisticA from './statistic/dark/a.js';
+import DarkStatisticB from './statistic/dark/b.js';
+import DarkStatisticC from './statistic/dark/c.js';
 
-import LightStepA from './step/light/a';
-import LightStepB from './step/light/b';
-import LightStepC from './step/light/c';
+import LightStepA from './step/light/a.js';
+import LightStepB from './step/light/b.js';
+import LightStepC from './step/light/c.js';
 
-import DarkStepA from './step/dark/a';
-import DarkStepB from './step/dark/b';
-import DarkStepC from './step/dark/c';
+import DarkStepA from './step/dark/a.js';
+import DarkStepB from './step/dark/b.js';
+import DarkStepC from './step/dark/c.js';
 
-import LightTeamA from './team/light/a';
-import LightTeamB from './team/light/b';
-import LightTeamC from './team/light/c';
+import LightTeamA from './team/light/a.js';
+import LightTeamB from './team/light/b.js';
+import LightTeamC from './team/light/c.js';
 
-import DarkTeamA from './team/dark/a';
-import DarkTeamB from './team/dark/b';
-import DarkTeamC from './team/dark/c';
+import DarkTeamA from './team/dark/a.js';
+import DarkTeamB from './team/dark/b.js';
+import DarkTeamC from './team/dark/c.js';
 
-import LightTestimonialA from './testimonial/light/a';
-import LightTestimonialB from './testimonial/light/b';
-import LightTestimonialC from './testimonial/light/c';
+import LightTestimonialA from './testimonial/light/a.js';
+import LightTestimonialB from './testimonial/light/b.js';
+import LightTestimonialC from './testimonial/light/c.js';
 
-import DarkTestimonialA from './testimonial/dark/a';
-import DarkTestimonialB from './testimonial/dark/b';
-import DarkTestimonialC from './testimonial/dark/c';
+import DarkTestimonialA from './testimonial/dark/a.js';
+import DarkTestimonialB from './testimonial/dark/b.js';
+import DarkTestimonialC from './testimonial/dark/c.js';
 
 export default function getBlock({theme = 'indigo', darkMode = false}) {
   return {
