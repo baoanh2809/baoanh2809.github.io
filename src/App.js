@@ -2,8 +2,8 @@ import React, { Component } from 'react';
 import Frame from 'react-frame-component';
 import SyntaxHighlighter from 'react-syntax-highlighter';
 import { vs2015, docco } from 'react-syntax-highlighter/dist/esm/styles/hljs';
-import getBlock from './blocks';
-import getIcons from './icons';
+import getBlock from './blocks.js';
+import getIcons from './icons.js';
 
 const iconList = getIcons();
 const blockListArr = [];

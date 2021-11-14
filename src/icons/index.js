@@ -1,82 +1,82 @@
 import React from 'react';
 
-import BlogA from './blog/a';
-import BlogB from './blog/b';
-import BlogC from './blog/c';
-import BlogD from './blog/d';
-import BlogE from './blog/e';
+import BlogA from './blog/a.js';
+import BlogB from './blog/b.js';
+import BlogC from './blog/c.js';
+import BlogD from './blog/d.js';
+import BlogE from './blog/e.js';
 
-import ContactA from './contact/a';
-import ContactB from './contact/b';
-import ContactC from './contact/c';
+import ContactA from './contact/a.js';
+import ContactB from './contact/b.js';
+import ContactC from './contact/c.js';
 
-import ContentA from './content/a';
-import ContentB from './content/b';
-import ContentC from './content/c';
-import ContentD from './content/d';
-import ContentE from './content/e';
-import ContentF from './content/f';
-import ContentG from './content/g';
-import ContentH from './content/h';
+import ContentA from './content/a.js';
+import ContentB from './content/b.js';
+import ContentC from './content/c.js';
+import ContentD from './content/d.js';
+import ContentE from './content/e.js';
+import ContentF from './content/f.js';
+import ContentG from './content/g.js';
+import ContentH from './content/h.js';
 
-import CTAA from './cta/a';
-import CTAB from './cta/b';
-import CTAC from './cta/c';
-import CTAD from './cta/d';
+import CTAA from './cta/a.js';
+import CTAB from './cta/b.js';
+import CTAC from './cta/c.js';
+import CTAD from './cta/d.js';
 
-import EcommerceA from './ecommerce/a';
-import EcommerceB from './ecommerce/b';
-import EcommerceC from './ecommerce/c';
+import EcommerceA from './ecommerce/a.js';
+import EcommerceB from './ecommerce/b.js';
+import EcommerceC from './ecommerce/c.js';
 
-import FeatureA from './feature/a';
-import FeatureB from './feature/b';
-import FeatureC from './feature/c';
-import FeatureD from './feature/d';
-import FeatureE from './feature/e';
-import FeatureF from './feature/f';
-import FeatureG from './feature/g';
-import FeatureH from './feature/h';
+import FeatureA from './feature/a.js';
+import FeatureB from './feature/b.js';
+import FeatureC from './feature/c.js';
+import FeatureD from './feature/d.js';
+import FeatureE from './feature/e.js';
+import FeatureF from './feature/f.js';
+import FeatureG from './feature/g.js';
+import FeatureH from './feature/h.js';
 
-import FooterA from './footer/a';
-import FooterB from './footer/b';
-import FooterC from './footer/c';
-import FooterD from './footer/d';
-import FooterE from './footer/e';
+import FooterA from './footer/a.js';
+import FooterB from './footer/b.js';
+import FooterC from './footer/c.js';
+import FooterD from './footer/d.js';
+import FooterE from './footer/e.js';
 
-import GalleryA from './gallery/a';
-import GalleryB from './gallery/b';
-import GalleryC from './gallery/c';
+import GalleryA from './gallery/a.js';
+import GalleryB from './gallery/b.js';
+import GalleryC from './gallery/c.js';
 
-import HeaderA from './header/a';
-import HeaderB from './header/b';
-import HeaderC from './header/c';
-import HeaderD from './header/d';
+import HeaderA from './header/a.js';
+import HeaderB from './header/b.js';
+import HeaderC from './header/c.js';
+import HeaderD from './header/d.js';
 
-import HeroA from './hero/a';
-import HeroB from './hero/b';
-import HeroC from './hero/c';
-import HeroD from './hero/d';
-import HeroE from './hero/e';
-import HeroF from './hero/f';
+import HeroA from './hero/a.js';
+import HeroB from './hero/b.js';
+import HeroC from './hero/c.js';
+import HeroD from './hero/d.js';
+import HeroE from './hero/e.js';
+import HeroF from './hero/f.js';
 
-import PricingA from './pricing/a';
-import PricingB from './pricing/b';
+import PricingA from './pricing/a.js';
+import PricingB from './pricing/b.js';
 
-import StatisticA from './statistic/a';
-import StatisticB from './statistic/b';
-import StatisticC from './statistic/c';
+import StatisticA from './statistic/a.js';
+import StatisticB from './statistic/b.js';
+import StatisticC from './statistic/c.js';
 
-import StepA from './step/a';
-import StepB from './step/b';
-import StepC from './step/c';
+import StepA from './step/a.js';
+import StepB from './step/b.js';
+import StepC from './step/c.js';
 
-import TeamA from './team/a';
-import TeamB from './team/b';
-import TeamC from './team/c';
+import TeamA from './team/a.js';
+import TeamB from './team/b.js';
+import TeamC from './team/c.js';
 
-import TestimonialA from './testimonial/a';
-import TestimonialB from './testimonial/b';
-import TestimonialC from './testimonial/c';
+import TestimonialA from './testimonial/a.js';
+import TestimonialB from './testimonial/b.js';
+import TestimonialC from './testimonial/c.js';
 
 export default function getIcons() {
   return {
